@@ -26,7 +26,7 @@
   <sonar.projectKey>raghulramesh04_manufacturejetms</sonar.projectKey>
   <sonar.organization>raghulramesh04</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-<sonar.login>6d568ddd857660ab88248a8934d1f5f1af0af57b</sonar.login>
+<sonar.login>6b17150dd9aeb7c8c2fe2882de4c7b64</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
