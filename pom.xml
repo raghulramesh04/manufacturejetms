@@ -21,6 +21,12 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		
+		
+  <sonar.projectKey>raghulramesh04_manufacturejetms</sonar.projectKey>
+  <sonar.organization>raghulramesh04</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+<sonar.login>6d568ddd857660ab88248a8934d1f5f1af0af57b</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
